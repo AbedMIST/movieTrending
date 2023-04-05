@@ -1,1 +1,1 @@
-# movieTrending app in IOS environment
+# movieTrending app as my first IOS app
