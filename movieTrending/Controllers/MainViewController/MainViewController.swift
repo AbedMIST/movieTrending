@@ -13,7 +13,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
 
         self.title = "Main View okay??"
-        self.view.backgroundColor = .brown
+        self.view.backgroundColor = .blue
     }
 
 
