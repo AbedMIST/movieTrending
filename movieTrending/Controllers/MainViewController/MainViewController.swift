@@ -15,7 +15,7 @@ class MainViewController: UIViewController {
     var viewModel: MainViewModel = MainViewModel()
     
     //variables
-    var cellDataSource: [Movie] = []
+    var cellDataSource: [MovieTableCellViewModel] = []
     
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     
@@ -28,7 +28,7 @@ class MainViewController: UIViewController {
     
     func configView(){
         self.title = "Main View okay?"
-        self.view.backgroundColor = .blue
+        self.view.backgroundColor = .systemBackground
         
         setupTableView()
     }
