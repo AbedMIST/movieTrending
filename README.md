@@ -40,7 +40,7 @@ To run this project, you will need to add Swift environment system and Xcode sof
 
 ## Installation
 
-In Xcode, just clone the project and run. In Iphone , you can install the app and run it.
+In Xcode, just clone the project and run. In Iphone , you can install the app and run it. You can also install the app in terminal using following commands:
 
 ```bash
   xcode-select --install
